@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class constant_1213{
+	public static void main(String args[]){
+		int a;
+		Scanner scan = new Scanner(System.in);
+		a =scan.nextInt();
+
+		int b;
+		Scanner scan = new Scanner(System.in);
+		b =scan.nextInt();
+		
+		System.out.print("사각형의 밑면 : ");
+		System.out.println(a);
+
+		System.out.print("사각형의 높이 : ");
+		System.out.println(b);
+
+		System.out.print("사각형의 넓이 : ");
+		System.out.println(a*b);
+
+	}
+}

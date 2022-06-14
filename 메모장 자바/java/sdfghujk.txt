@@ -1,0 +1,9 @@
+Scanner
+nextLine 한 줄
+next 한단어
+
+상수의 정의
+값 못바꾸는거
+
+선언방법 
+final

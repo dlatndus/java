@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;package02.Replace&apos; to &apos;ReplaceExam&apos;&#x0D;&#x0A;- Original project: &apos;PackageProject&apos;&#x0D;&#x0A;- Original element: &apos;package02.Replace&apos;&#x0D;&#x0A;- Renamed element: &apos;package02.ReplaceExam&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Replace&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;package02{Replace.java[Replace" matchStrategy="1" name="ReplaceExam" qualified="false" references="true" similarDeclarations="false" stamp="1650422535522" textual="false" version="1.0"/>
+</session>
